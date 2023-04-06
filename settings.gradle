@@ -1,0 +1,4 @@
+include ':kellocharts-sample'
+include ':kellocharts'
+include ':app'
+rootProject.name = "Pulseoximeter"
